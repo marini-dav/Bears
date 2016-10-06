@@ -20,6 +20,6 @@
     <li>United States</li>
     <li>Canada</li>
   </ol>
-<img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" />
+<img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" alt="A Brown Bear" />
 </body> 
 </html>
